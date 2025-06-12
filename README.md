@@ -33,12 +33,16 @@ Total Mark (%)	     Grade Point
 ### Note: Fundamental subjects do not consider grades between 60–69. They must achieve 70+ to pass...
 
 ### Here's some output screenshot for better understanding:
+
 SGPA Calculation:
 ![image alt](https://github.com/tabassumnazifa/IUBAT-CGPA-SGPA-calculator/blob/main/sg.png?raw=true)
+
 CGPA Calculation:
 ![image alt](https://github.com/tabassumnazifa/IUBAT-CGPA-SGPA-calculator/blob/main/cg.png?raw=true)
+
 NonDepartmental:
 ![image alt](https://github.com/tabassumnazifa/IUBAT-CGPA-SGPA-calculator/blob/main/nondept.png?raw=true)
+
 Departmental:
 ![image alt](https://github.com/tabassumnazifa/IUBAT-CGPA-SGPA-calculator/blob/main/fundamental.png?raw=true)
 
