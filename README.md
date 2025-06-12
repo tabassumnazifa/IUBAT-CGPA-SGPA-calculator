@@ -16,17 +16,21 @@ Accepts detailed mark components:
 - Accepts credit hours for each course and semester.
 
 🧮 Grading System
-Total Mark (%)	 Grade Point
-* 90–100	        4.00
-* 87–89	          3.70
-* 84–86	          3.40
-* 80–83	          3.10
-* 77–79	          2.80
-* 74–76	          2.50
-* 70–73          	2.20
-* 65–69          	1.50
-* 60–64	          1.00
-* Below 60	      0.00
+Total Mark (%)	     Grade Point
+* 90–100	            4.00
+* 87–89	              3.70
+* 84–86	              3.40
+* 80–83	              3.10
+* 77–79	              2.80
+* 74–76	              2.50
+* 70–73          	    2.20
+* 65–69          	    1.50
+* 60–64	              1.00
+* Below 60	          0.00
 
 ### Note: Fundamental subjects do not consider grades between 60–69. They must achieve 70+ to pass...
+
+### Here's some output screenshot for better understanding:
+SGPA Calculation:
+
 
