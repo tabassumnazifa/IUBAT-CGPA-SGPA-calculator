@@ -16,7 +16,7 @@ Accepts detailed mark components:
 - Accepts credit hours for each course and semester.
 
 🧮 Grading System
-Total Mark (%)	Grade Point
+Total Mark (%)	 Grade Point
 * 90–100	        4.00
 * 87–89	          3.70
 * 84–86	          3.40
