@@ -28,5 +28,5 @@ Total Mark (%)	Grade Point
 * 60–64	          1.00
 * Below 60	      0.00
 
-### Note: Fundamental subjects do not consider grades between 60–69. They must achieve 70+ to pass.
+### Note: Fundamental subjects do not consider grades between 60–69. They must achieve 70+ to pass...
 
